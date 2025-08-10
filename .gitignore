@@ -1,0 +1,4 @@
+.venv/
+.idea/
+
+rawData/result.json
