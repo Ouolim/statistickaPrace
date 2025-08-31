@@ -1,4 +1,6 @@
 .venv/
 .idea/
+.ipynb_checkpoints/
 
-rawData/result.json
+data/result.json
+/data/data.json
